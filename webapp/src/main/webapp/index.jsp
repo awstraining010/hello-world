@@ -12,8 +12,8 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="Name"><b>Enter Middle Name</b></label>
-    <input type="text" placeholder="Enter Middle Name" name="Name" id="Name" required>
+    <label for="Name"><b>Enter short Name</b></label>
+    <input type="text" placeholder="Enter short Name" name="Name" id="Name" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
